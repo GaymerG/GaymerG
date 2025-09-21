@@ -1,4 +1,5 @@
-## Hi there 👋
+##  hi my name is gamer
+im gay
 
 <!--
 **GaymerG/GaymerG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
