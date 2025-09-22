@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 <div align="center"> 
   
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=happyst4rs.stars&left_color=black&right_color=darkblue&left_text=Stalkers)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=gaymerg&left_color=pink&right_color=lightblue&left_text=Stalkers)
