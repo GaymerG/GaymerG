@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 ![Placeholder](https://github.com/user-attachments/assets/397073b3-d830-4f02-8ecc-f15ddf7f30a3)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=happyst4rs.stars&left_color=black&right_color=darkblue&left_text=Stalkers)
+
+<div align="center"> 
