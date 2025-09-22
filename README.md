@@ -16,7 +16,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Placeholder](https://github.com/user-attachments/assets/397073b3-d830-4f02-8ecc-f15ddf7f30a3)
-
-<div align="center"> 
-  
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=gaymerg&left_color=pink&right_color=lightblue&left_text=Stalkers)
